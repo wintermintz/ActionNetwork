@@ -1,0 +1,21 @@
+
+header { background:url(../images/banner_medium.jpg) no-repeat right 0px;
+background-size:800px 200px;/*for hd*/}
+.typing_box{max-width:300px;max-height:160px;}
+article{/*left:202px; height:460px;float:left;*/
+padding:20px;
+width:60%;height:40%;}
+
+nav { height:400px;}
+nav {  
+
+	float: left;
+	width: 150px; height: 100%; 
+	margin: 0; padding: 0 2em; 
+	background:url(../images/gradient.jpg);
+	background-repeat:repeat-x;
+	background-color:#336666; 
+	/*background-color:#3399cc;*/
+}
+nav a { color: #D4E6F4; text-decoration: none; }
+nav a:hover { color: #FFFFFF; }
